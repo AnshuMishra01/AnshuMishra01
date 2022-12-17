@@ -35,10 +35,10 @@
 
 - :zap: In my free time, I read tech articles.
 
-- :seedling: StartUp Orented.
+- :seedling: StartUp Oriented.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-mishra023129/)
-<h1>What The Hell I know!</h1>
+<h1>What I know!</h1>
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
